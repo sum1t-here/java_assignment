@@ -9,6 +9,6 @@ public class fifteen {
         String message = scanner.nextLine();
         scanner.close();
 
-        DisplayMessage.display(message);
+        DisplayMessageForFifteen.display(message);
     }
 }
